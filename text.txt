@@ -1,0 +1,21 @@
+
+{
+    "users": [
+      {
+        "name": "abdiwoli",
+        "email": "a@something.com",
+        "age": 62,
+		"username":"abdiwoli"
+        
+      },
+      {
+		  
+        "name": "hand",
+        "email": "b@something.com",
+        "age": 65,
+		"username":"hanad"
+      }
+	  
+      
+    ]
+}
